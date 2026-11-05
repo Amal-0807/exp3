@@ -1,7 +1,8 @@
-name: product_finder
-description: Experiment 3 - 24CS2016 Building Applications using Flutter
-publish_to: 'none'
-version: 1.0.0+1
+name: exp3
+description: Flutter experiment 3 - a product finder app that filters a list of items as you type.
+version: 1.0.0
+homepage: https://github.com/Amal-0807/exp3_product_finder
+repository: https://github.com/Amal-0807/exp3_product_finder
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
